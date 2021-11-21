@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GulimallMemberApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GulimallMemberApplication.class, args);
+        SpringApplication.run(GulimallMemberApplication.class,args);
     }
-
 }
