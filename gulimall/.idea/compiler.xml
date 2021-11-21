@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gulimall-coupon" />
+        <module name="gulimall-common" />
         <module name="renren-fast" />
         <module name="gulimall-order" />
         <module name="gulimall-ware" />
@@ -18,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gulimall" target="1.5" />
+      <module name="gulimall-common" target="8" />
       <module name="gulimall-coupon" target="1.8" />
       <module name="gulimall-member" target="1.8" />
       <module name="gulimall-order" target="1.8" />
